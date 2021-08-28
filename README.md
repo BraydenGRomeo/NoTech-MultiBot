@@ -26,7 +26,13 @@ Great Job, Developer!
 
 
 Please read the license in LICENSE   
-Current Version: 1.0.0.0  
+Current Version: 1.0.0.1
+
+**RECENT UPDATE FOR 1.0.01**
+New command: Blacklisting words of your choice, not the entire word, but stops it if the word starts with what you entered.
+New command: Polls, just like Carl Bot!
+New command: DM command when you mention someone, it DM's them what you said.
+  
 Please know: This Github will be up with up to date instructions on how to set up the bot.  Support will be here for you, note that minimal discord.js knowledge is required. We cannot help if you do not understand what your doing.
 Current Support Channel: https://discord.gg/vP37HcPpgV  
 NoTech-Multibot, Proprety Of NoTech.
