@@ -23,9 +23,6 @@ if(message.content.startsWith("badword here")) {
 message.delete()
 message.channel.send("bots reply")
 }
-
-
-
 })
 
  client.login("paste your token here")
